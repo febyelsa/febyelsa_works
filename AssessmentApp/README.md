@@ -15,7 +15,7 @@ In order to be successful, you should have the following experience:
 ### Installing
 
 
-    1. Clone this repository onto your computer: git clone https://github.com/febyelsa/febyelsa_works.git
+    1. Clone this repository or download onto your computer: git clone https://github.com/febyelsa/febyelsa_works.git
     2. Open Android Studio
     3. Either press "Open an Existing Android Studio Project" or click File > Open...
     4. Navigate to febyelsa_works/AssessmentApp. Press Choose, or OK
